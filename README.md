@@ -40,8 +40,6 @@ CTF challenges, and technical documentation.
 | Project | Description |
 |---------|-------------|
 | [Cybersecurity Walkthroughs](https://github.com/ALJO-AJ/Walk_through) | Hands-on security labs and technical documentation |
-| [Python Learning](https://github.com/ALJO-AJ/learn.py) | Python programming practice |
-| [Web Projects](https://github.com/ALJO-AJ/website_projects) | Web development fundamentals |
 | [Game Project](https://github.com/ALJO-AJ/game_project) | Browser-based game development |
 
 ## 🚀 My Goal
